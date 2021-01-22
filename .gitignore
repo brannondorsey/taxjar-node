@@ -1,4 +1,5 @@
-node_modules
+# Vendor node modules to prevent build error when being installed as a submodule
+#node_modules
 
 # Ignore built ts files
 dist/**/*
