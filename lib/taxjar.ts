@@ -193,4 +193,4 @@ class Taxjar {
   }
 }
 
-export = Taxjar;
+export default Taxjar;
